@@ -55,4 +55,6 @@ M(Model)模型；也叫业务模型，主要在应用程序中
 
 V（View）视图：展示数据，
 
+C（Controller）控制器
+
 ![](C:\phpDevelopment\myweb\ThinkPHPNote\分享thinkPHP\MVC.jpg)
