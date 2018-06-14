@@ -51,3 +51,6 @@ www WEB部署目录（或者子目录）
 
 2.MVC
 
+M(Model):模型；也叫业务模型，主要在应用程序中
+
+![](C:\phpDevelopment\myweb\ThinkPHPNote\分享thinkPHP\MVC.jpg)
