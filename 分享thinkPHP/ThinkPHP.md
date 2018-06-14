@@ -60,3 +60,9 @@ C（Controller）控制器
 C->M->V
 
 ![](C:\phpDevelopment\myweb\ThinkPHPNote\分享thinkPHP\MVC.jpg)
+
+3.Model
+
+4.Controller
+
+5.View
