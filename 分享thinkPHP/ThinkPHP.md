@@ -57,4 +57,6 @@ V（View）视图：展示数据，
 
 C（Controller）控制器
 
+C->M->V
+
 ![](C:\phpDevelopment\myweb\ThinkPHPNote\分享thinkPHP\MVC.jpg)
