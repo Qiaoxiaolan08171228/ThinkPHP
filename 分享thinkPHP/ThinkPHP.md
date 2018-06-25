@@ -51,6 +51,18 @@ www WEB部署目录（或者子目录）
 
 2.MVC
 
-M(Model):模型；也叫业务模型，主要在应用程序中
+M(Model)模型；也叫业务模型，主要在应用程序中
+
+V（View）视图：展示数据，
+
+C（Controller）控制器
+
+C->M->V
 
 ![](C:\phpDevelopment\myweb\ThinkPHPNote\分享thinkPHP\MVC.jpg)
+
+3.Model
+
+4.Controller
+
+5.View
